@@ -1,5 +1,3 @@
-# Instructions
-
 ## Task
 
 You've learned about jest and react-testing-library to create automated tests for your components. Now it's time to write some of your own tests! 
